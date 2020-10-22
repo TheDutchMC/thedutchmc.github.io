@@ -1,3 +1,3 @@
-[Back to Category](index.md)
-[Back to main Wiki](https://thedutchmc.nl/wiki)
-[Back to main Site](https://thedutchmc.nl)
+[Code Home](index.md)
+[Wiki Home](https://thedutchmc.nl/wiki)
+[Site Home](https://thedutchmc.nl)
