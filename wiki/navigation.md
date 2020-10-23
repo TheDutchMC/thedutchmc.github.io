@@ -1,3 +1,4 @@
 # TheDutchMC Wiki
-[Homelab](https://thedutchmc.nl/wiki/homelab)
-[Code](https://thedutchmc.nl/wiki/code)
+[Homelab](/wiki/homelab/index.md)
+[Code](/wiki/code/index.md)
+[Plugins](/wiki/plugins/index.md)

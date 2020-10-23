@@ -1,0 +1,22 @@
+{
+    "short_name": "TheDutchMC",
+    "name": "TheDutchMC",
+    "description": "TheDutchMC's website",
+    "icons": [
+        {
+          "src": "/content/dutch_192px.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        },
+        {
+          "src": "/content/dutch_512px.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+      ],
+    "start_url": "/",
+    "background_color": "#3367D6",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#2130D6"
+}

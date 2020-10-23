@@ -1,2 +1,3 @@
-# Articles
-[Odin setup guide](odin-setup.md)
+# Homelab
+### Articles
+[Odin setup guide](/wiki/homelab/odin-setup.md)

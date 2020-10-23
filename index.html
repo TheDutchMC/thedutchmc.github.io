@@ -10,6 +10,8 @@
         <meta name="author" content="Tobias de Bruijn (TheDutchMC)">
         <meta name="keywords" content="thedutchmc, dutchy76, tobias, de bruijn">
 
+        <link rel="shortcut icon" type="image/x-icon" href="/content/favicon.png" />
+        
         <!-- External Stylesheets-->
         <link href="https://fonts.googleapis.com/css2?family=Baloo+Tamma+2&family=Roboto:wght@100;300&display=swap" rel="stylesheet">
 
@@ -18,8 +20,21 @@
 
         <!-- Internal stylesheets-->
         <link rel="stylesheet" type="text/css" href="/css/index.css">   
+
+        <!--Webmanifest for PWA-->
+        <link rel="manifest" href="/manifest.webmanifest">
+
     </head>
     <body>
+        <!--PWA-->
+        <script>
+            // Let's register our serviceworker
+            navigator.serviceWorker.register('/sw.js', {
+                // The scope cannot be parent to the script url
+                scope: './'
+            });
+        </script>
+
         <!--Navbar-->
         <div class="ngAppContainer" data-ng-app="">
             <div class="navbarContainerHolder" data-ng-include="'/navbar.html'"></div>
