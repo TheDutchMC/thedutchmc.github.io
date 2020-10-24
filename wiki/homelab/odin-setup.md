@@ -1,5 +1,5 @@
 ## Odin installation guide [Ubuntu 20.04 LTS]
-[GitHub](https://github.com/maelstrom-cms/odin)
+[Odin GitHub](https://github.com/maelstrom-cms/odin)
 
 ### Odin
 #### Add PHP and MariaDB repositories`
