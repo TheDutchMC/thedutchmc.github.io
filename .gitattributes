@@ -1,0 +1,4 @@
+#Markdown will now show up in the GitHub language slider
+*.md linguist-detectabnle=true
+*.md linguist-documentation=false
+*.md linguist-language=Markdown
