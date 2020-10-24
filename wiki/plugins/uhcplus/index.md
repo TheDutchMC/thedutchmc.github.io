@@ -23,3 +23,6 @@ If you've got questions, or anything else to ask, or you just want to talk with 
 [Modules](/wiki/plugins/uhcplus/modules.md)
 [Presets](/wiki/plugins/uhcplus/presets.md)
 [Works with uhcplus](/wiki/plugins/uhcplus/works_with_uhcplus.md)
+
+### Support
+Support will be exclusively provided on my Discord [here](https://discord.gg/xE3FcGj)

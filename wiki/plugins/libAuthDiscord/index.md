@@ -3,3 +3,6 @@ A library for other plugins to hook into. Also allows to whitelist your Minecraf
 
 ### Articles
 [Installation](/wiki/plugins/libAuthDiscord/setup.md)
+
+### Support
+Support will be exclusively provided on my Discord [here](https://discord.gg/xE3FcGj)
