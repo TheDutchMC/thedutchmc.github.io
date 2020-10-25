@@ -1331,7 +1331,7 @@ function googlemapsReady() {
             (b += '<hr><div class="scontainer">'),
                 (b += '<div class="pull-right md-copyright-footer"> '),
                 (b += '<span id="md-footer-additional"></span>'),
-                (b += 'Copyright (C) 2020 - Tobias de Bruijn'),
+                (b += 'Copyright (C) 2020 - Tobias de Bruijn - All rights reserved'),
                 (b += "</div>"),
                 (b += "</div>");
             var c = a(b);
