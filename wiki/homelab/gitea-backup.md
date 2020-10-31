@@ -18,6 +18,9 @@ You'll have to change this to match your setup. You should only need to change t
 ```
 #!/bin/bash
 
+#Immediately exit if a program exits with a non-zero status
+set -e
+
 #Check if the user gave us the zip file they want to restore or not
 if [[ $# -eq 0 ]]
 then
