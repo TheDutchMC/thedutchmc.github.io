@@ -1,4 +1,4 @@
-## Odin installation guide [Ubuntu 20.04 LTS]
+# Odin installation guide [Ubuntu 20.04 LTS]
 [Odin GitHub](https://github.com/maelstrom-cms/odin)
 
 ### Odin
@@ -64,7 +64,7 @@
 
 If no errors are thrown, exit with ctrl+c
 
-## Webserver configuration
+### Webserver configuration
 
 > **Note:** This guide uses NGINX. Apache2 will probably work too.
 
@@ -139,7 +139,7 @@ WantedBy=multi-user.target
 - `systemctl daemon-reload`
 - `systemctl enable --now odin`
 
-## Using the Crawler
+### Using the Crawler
 
 #### Install dependencies
 ```
@@ -152,7 +152,7 @@ libappindicator1 libnss3 lsb-release xdg-utils wget
 #### Install Puppeteer
 - `npm install --global --unsafe-perm puppeteer`
 
-## Visual Diff
+### Visual Diff
 
 #### If you dont already have it, install Puppeteer
 - `npm install --global --unsafe-perm puppeteer`
@@ -163,7 +163,7 @@ libappindicator1 libnss3 lsb-release xdg-utils wget
 #### Install Pixelmatch
 - `npm i pixelmatch`
 
-## Sources
+### Sources
 - [Odin GitHub](https://github.com/maelstrom-cms/odin)
 - [Laravel Deployment Guide](https://laravel.com/docs/8.x/deployment)
 - [Laravel Visual Diff GitHub](https://github.com/QortexDevs/laravel-visual-diff)

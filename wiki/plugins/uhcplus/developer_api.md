@@ -5,7 +5,7 @@ You can add UhcPlus as a dependency, and build on top of it!
 
 You have to replace 'Tag' with whatever version of UhcPlus you want to use. E.g `0.5-BETA`
 
-## Gradle
+### Gradle
 ```
 allprojects {
 	repositories {
@@ -18,7 +18,7 @@ dependencies {
 	implementation 'nl.thedutchmc:uhcplus:Tag'
 }
 ```
-## Maven
+### Maven
 ```
 <repositories>
 	<repository>
@@ -34,14 +34,14 @@ dependencies {
         <version>Tag</version>
 </dependency>
 ```
-## SBT
+### SBT
 ```
 resolvers += "jitpack" at "https://jitpack.io"
 ```
 ```
 libraryDependencies += "nl.thedutchmc" % "uhcplus" % "Tag"	
 ```
-## Leiningen
+### Leiningen
 ```
 :repositories [["jitpack" "https://jitpack.io"]]
 ```
