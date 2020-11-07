@@ -29,6 +29,7 @@ Downloads can be found [here](https://github.com/TheDutchMC/SkinFixer/releases)
 - 1.16.1
 - 1.16.2
 - 1.16.3
+- 1.16.4
 
 ### Issues and version requests
 If you have found an issue in SkinFixer, or you would like a currently unsupported Minecraft version to be supported, you can ask so here: [SkinFixer GitHub](https://github.com/TheDutchMC/SkinFixer/issues)
