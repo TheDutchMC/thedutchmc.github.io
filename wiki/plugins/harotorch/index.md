@@ -35,6 +35,7 @@ It's easy!
 All versions above 1.16.2 are supported. However the highlight feature is not supported on all versions.
 - 1.16.2
 - 1.16.3
+- 1.16.4
 
 ### Using your own language
 To use your own language, check out this page: [HaroTorch on GitHub](https://github.com/TheDutchMC/HaroTorch/blob/v2/languages/README.md)
