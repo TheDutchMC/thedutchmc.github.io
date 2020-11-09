@@ -93,7 +93,9 @@ When trying to run OpenGL applications I ran into an issue where GLX would be st
 3. Download the latest Mesa version from mesa3d.org
 4. Extract with ``tar -xvf <downloaded tar file>``
 5. CD into your extracted tar
+
 > **Note:** Commands after this point should be run as the root user
+
 6. ``mkdir build``
 7. ``cd build``
 8. 
