@@ -1,2 +1,2 @@
 # Code
-#### It's quiet here for now...
+[Eclipse's Package Explorer shows nothing under the 'New' option](/wiki/code/eclipse_package_explorer_new_button_empty.md)
